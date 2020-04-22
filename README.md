@@ -61,7 +61,7 @@ border:4px ridge red;
 <h1 id= "hockey">my favorite sport<img src= "https://image.flaticon.com/icons/png/512/590/590709.png" alt= "bacon" width=  "100"></h1>
 
 
-<div id= "p"><p>Hockey is my favoret sport and here is why</p><h5><ul><li><em>skating</em>, it is an amazing feeling when you soar across the ice.</li>
+ <div id= "p"><p>Hockey is my favoret sport and here is why</p><h5><ul><li><em>skating</em>, it is an amazing feeling when you soar across the ice.</li>
 <li><em>fights</em>, nothing is better than a whack! across the face.</li>
 <li><em>goals</em>, it is an amazing feeling when you help your teem win</li>   
 <li><em>sitting in the penalty box</em>, you get a nice long break</li>  
