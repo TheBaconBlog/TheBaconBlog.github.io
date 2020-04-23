@@ -1,0 +1,11 @@
+# TheBaconBlog.github.io
+Website
+<body>
+    <h1>All about Comics</h1>
+    <p>Comics are a way to stretch imagination using pictures and little words. <img src= "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/All_Star_Comics_58.jpg/180px-All_Star_Comics_58.jpg"> the first comic was Bud Fisher 's Mutt and Jeff is commonly regarded as the first daily comic strip, launched November 15, 1907 (under its initial title, A. Mutt) on the sports pages of the San Francisco Chronicle. The featured character had previously appeared in sports cartoons by Fisher but was unnamed.</p>
+ <h1>History of comics</h1>  
+  <p>The origin of the word Comic book comes from the comic strips that generally ran in newspapers. Some argue, however, that the comic in its purest form has been seen in early cultures, such as Egyptian wall art and prehistoric man cave paintings. the first comic book invented was in about the mid-twentieth sentry</p> 
+ <h1>the oldest DC superhero</h1>  
+   <p>The oldest DC superhero by their character’s age, is the entity/spirit Aztar (A.K.A., the Spectre, the embodiment of the Presence’s Vengeance,) assumed to have come into existence at the beginning of time.</p>
+<h1>who are the strongest superheros</h1>   
+   <p>Wolverine – is by far the most interesting and violent superhero of all time. Not only he is the most influential superhero in our list, but also he’s still more popular than Iron Man Hulk and Superman – due to his personality traits and a vast number of books and merchandise on Wolverine. and The strongest mainstream superhero is the Hulk, then Thor and Gladiator. Hulk Puts A Planet Back Together wow! what an Incredible Hulk! </p>
