@@ -1,0 +1,39 @@
+# TheBaconBlog.github.io
+Website
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>mothers day web</title>
+    
+        <style>
+         #rules{ background: rgb(230, 230, 230);
+            width: 83%;
+            height: 180px;
+            overflow-y: auto;
+            overflow-x: hidden;}
+            a{color:rgb(199, 124, 222);}
+            
+            
+        </style>
+    </head>
+    <body>
+<div id= "rules">
+<h1 >Happy Mother's Day!!!</h1>
+<h2 >Here is a mothers day trivia game</h2>
+  <h1 >The Rules Are Simple...</h1>  
+    <p >click the start button to begin. after that a question will pop up with three answers to choose from. press the butten that you think is the right answer. then keep on playing untill you get one wrong one. once you lose (I am thinking you will because is a hard game!!!) to play again click on the restart butten. play untill you win!!! and sorry for not being able to make the game on this webpage, but here is the link to the <a href= "https://www.khanacademy.org/computer-science/mothers-day-trivia-game/4800292900978688">Mothers Day Trivia Game</a></p></div>
+    
+    
+    
+    
+    
+    
+       
+    </body>
+<script>
+  rect(179,173,90,59);  
+    
+    
+</script>
+</html>
